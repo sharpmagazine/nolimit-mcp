@@ -1,4 +1,5 @@
 # NoLimitMCP — WordPress MCP Server
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/sharpmagazine/nolimit-mcp)
 
 Self-hosted MCP server for WordPress. Works everywhere: ChatGPT (via built-in OAuth 2.1), Claude, Cursor, Windsurf. Your AI connects directly to your own site — no cloud relay, no account, no daily tool-call limits, no paywall.
 
